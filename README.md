@@ -155,7 +155,7 @@ As per update 1.0.16, ITB has a native grid overlay ("Grid Coordinates" in the o
 
 Context: I'm using the Rusting Hulks, as you can see from the screenshot. Chen Rong is in the Jet Mech. Her ability allows 1 tile of movement after attacking.
 
-![Image of beginning map](image1.png)
+![Image of beginning map](img1.png)
 
 ```
 F5-E4
@@ -183,7 +183,7 @@ E3-F4
 F1-F2
 ```
 
-![Image of ending map](image2.png)
+![Image of ending map](img2.png)
 
 ---
 
