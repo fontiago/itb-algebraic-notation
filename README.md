@@ -2,6 +2,14 @@
 
 ## A guide to textually notating moves in Into the Breach
 
+### Table of Contents
+1. [Preface](#preface)
+2. [Basic rules](#basic-rules)
+3. [Extended rules](#extended-rules)
+4. [Full turn example](#full-turn-example)
+
+### Preface
+
 As per update 1.0.16, ITB has a native grid overlay ("Grid Coordinates" in the options) so those coordinates are what's used here. Text notation should ideally exist alongside a screenshot to explain what is happening, and any pilot-specific abilities used should be noted preceding the notation itself. I've based this on algebraic chess notation. Hopefully it's specific enough to show your intended actions & consequences without having to get bogged down in what weapons or upgrades you have equipped.
 
 ### Basic rules
