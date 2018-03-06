@@ -16,6 +16,7 @@ As per update 1.0.16, ITB has a native grid overlay ("Grid Coordinates" in the o
   - Projectile example: C5xE5 (My unit in *C5* attacks cell *E5* with a projectile.)
   - Artillery example: C5xC1 (My unit in *C5* attacks cell *C1* with artillery.)
 - Each action should be listed in the order committed on **new lines**, or for brevity, with a semicolon between.
-  - Example: ![A3-C3 new line C3xC4](1.png)
+  - Example:
+  - ![A3-C3 new line C3xC4](image1.png)
   - Or: `A3-C3; C3xC4`
 - *Results* of an action are listed under the action on **indented new lines**, or for brevity, in **parentheses** after the action with semicolons between each result.
