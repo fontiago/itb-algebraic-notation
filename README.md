@@ -175,7 +175,6 @@ D6xF6
     SmxE6
     CaxE6
 F6-F7
-B5-A3
 B5-D6
 -Environment- 
 Sm-1xE6
